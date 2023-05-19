@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.container{
+  padding: 10% 5%;
+  text-align: center;
+  background-color: aqua;
+  align-items: center;    
+} 
+.image {
+  width: 100px;
+  height: 100px;
+  border-radius: 2%;
+  opacity: 0.3;
+}
